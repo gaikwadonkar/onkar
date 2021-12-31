@@ -1,2 +1,2 @@
 # onkar
-onkar repository
+onkar repository for git commands demonstration
